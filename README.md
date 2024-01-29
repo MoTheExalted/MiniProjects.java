@@ -1,5 +1,5 @@
 # MiniProjects.java
-Just an amateur's newbie projects.
+Just newbie projects.
 
 All these files can be put in an IDE and they will run. 
 
